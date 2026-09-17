@@ -60,6 +60,17 @@ header {
   border-radius: 10px;
 }
 
+.currently-doing {
+    width: auto;
+    border: 1px solid black;
+    background-color:cyan;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    color: #001A23;
+    border-radius: 10px;
+}
+
 .project-image {
   display: block;
   margin: auto auto 10px;
